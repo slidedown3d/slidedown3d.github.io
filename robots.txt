@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://slidedown3d.github.io/sitemap.xml
